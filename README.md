@@ -1,2 +1,7 @@
 # cars.com
-A website under development for used premium cars.
+* * *
+
+- Seed for cars.com
+- This Project is currently under development.
+
+ * * *
